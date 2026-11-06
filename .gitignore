@@ -1,0 +1,10 @@
+.idea/
+.DS_Store
+.env
+.env.*
+!.env.example
+
+nginx/letsencrypt/
+
+nginx/options-ssl-nginx.conf
+nginx/ssl-dhparams.pem
